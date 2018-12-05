@@ -1,0 +1,7 @@
+c:\users\николай\documents\visual studio 2012\Projects\UKPO_5_TEST\UIMaps\bin\Debug\UIMaps.dll
+c:\users\николай\documents\visual studio 2012\Projects\UKPO_5_TEST\UIMaps\bin\Debug\UIMaps.pdb
+c:\users\николай\documents\visual studio 2012\Projects\UKPO_5_TEST\UIMaps\bin\Debug\UKPO_5_TEST.dll
+c:\users\николай\documents\visual studio 2012\Projects\UKPO_5_TEST\UIMaps\bin\Debug\UKPO_5_TEST.pdb
+c:\users\николай\documents\visual studio 2012\Projects\UKPO_5_TEST\UIMaps\obj\Debug\UIMaps.csprojResolveAssemblyReference.cache
+c:\users\николай\documents\visual studio 2012\Projects\UKPO_5_TEST\UIMaps\obj\Debug\UIMaps.dll
+c:\users\николай\documents\visual studio 2012\Projects\UKPO_5_TEST\UIMaps\obj\Debug\UIMaps.pdb

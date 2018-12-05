@@ -1,0 +1,4 @@
+c:\users\николай\documents\visual studio 2012\Projects\UKPO_5_TEST\UKPO_5_TEST\bin\Debug\UKPO_5_TEST.dll
+c:\users\николай\documents\visual studio 2012\Projects\UKPO_5_TEST\UKPO_5_TEST\bin\Debug\UKPO_5_TEST.pdb
+c:\users\николай\documents\visual studio 2012\Projects\UKPO_5_TEST\UKPO_5_TEST\obj\Debug\UKPO_5_TEST.dll
+c:\users\николай\documents\visual studio 2012\Projects\UKPO_5_TEST\UKPO_5_TEST\obj\Debug\UKPO_5_TEST.pdb

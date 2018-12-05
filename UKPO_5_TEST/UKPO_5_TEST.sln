@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UKPO_5_TEST", "UKPO_5_TEST\UKPO_5_TEST.csproj", "{7338D5A0-566E-41DE-871A-63C4075DDBAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIMaps", "UIMaps\UIMaps.csproj", "{28E10BAF-BFF8-4FB7-9D9C-23C0E1E0748D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7338D5A0-566E-41DE-871A-63C4075DDBAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7338D5A0-566E-41DE-871A-63C4075DDBAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7338D5A0-566E-41DE-871A-63C4075DDBAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7338D5A0-566E-41DE-871A-63C4075DDBAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28E10BAF-BFF8-4FB7-9D9C-23C0E1E0748D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28E10BAF-BFF8-4FB7-9D9C-23C0E1E0748D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28E10BAF-BFF8-4FB7-9D9C-23C0E1E0748D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28E10BAF-BFF8-4FB7-9D9C-23C0E1E0748D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
